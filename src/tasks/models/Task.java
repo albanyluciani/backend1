@@ -33,5 +33,6 @@ public class Task {
             }
     public boolean getStatus(){
         return this.status;
+    }
 
 }
